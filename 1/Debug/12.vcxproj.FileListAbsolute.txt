@@ -1,0 +1,4 @@
+C:\Users\thest\Downloads\lab prog\lab3\12\Debug\12.exe
+C:\Users\thest\Downloads\lab prog\lab3\12\Debug\12.pdb
+C:\Users\thest\Downloads\lab prog\lab3\1\Debug\12.exe
+C:\Users\thest\Downloads\lab prog\lab3\1\Debug\12.pdb
